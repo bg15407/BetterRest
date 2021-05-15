@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B626DFAA265028F000A37F78 /* SleepTime 1.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = B626DFA9265028F000A37F78 /* SleepTime 1.mlmodel */; };
 		B65FE7FF264F7B2D001F9502 /* Better_RestApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B65FE7FE264F7B2D001F9502 /* Better_RestApp.swift */; };
 		B65FE801264F7B2D001F9502 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B65FE800264F7B2D001F9502 /* ContentView.swift */; };
 		B65FE803264F7B2F001F9502 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B65FE802264F7B2F001F9502 /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B626DFA9265028F000A37F78 /* SleepTime 1.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = "SleepTime 1.mlmodel"; sourceTree = SOURCE_ROOT; };
 		B65FE7FB264F7B2D001F9502 /* Better Rest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Better Rest.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B65FE7FE264F7B2D001F9502 /* Better_RestApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Better_RestApp.swift; sourceTree = "<group>"; };
 		B65FE800264F7B2D001F9502 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 				B65FE800264F7B2D001F9502 /* ContentView.swift */,
 				B65FE802264F7B2F001F9502 /* Assets.xcassets */,
 				B65FE807264F7B2F001F9502 /* Info.plist */,
+				B626DFA9265028F000A37F78 /* SleepTime 1.mlmodel */,
 				B65FE804264F7B2F001F9502 /* Preview Content */,
 			);
 			path = "Better Rest";
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B626DFAA265028F000A37F78 /* SleepTime 1.mlmodel in Sources */,
 				B65FE801264F7B2D001F9502 /* ContentView.swift in Sources */,
 				B65FE7FF264F7B2D001F9502 /* Better_RestApp.swift in Sources */,
 			);
